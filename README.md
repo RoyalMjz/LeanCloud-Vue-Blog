@@ -16,9 +16,9 @@
 ## Introduction
 
 
-一个前后端完全分离的单页应用  [线上地址点此查看](http://jiangjiu.leanapp.cn)
+一个前后端完全分离的单页应用  [线上地址点此查看](http://royalmjz.leanapp.cn)
 
-采用了之前写的 vue.js+LeanCloud（node.js） 的开发样板 [github地址点此查看](https://github.com/jiangjiu/vue-leancloud-boilerplate)
+采用了将就写的 vue.js+LeanCloud（node.js） 的开发样板 [github地址点此查看](https://github.com/jiangjiu/vue-leancloud-boilerplate)
 
 
 ## Usage
