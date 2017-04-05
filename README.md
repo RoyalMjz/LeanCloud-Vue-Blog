@@ -9,8 +9,9 @@
 
 # LeanCloud-Vue-Blog
 
-[![License MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](myGithub)&nbsp;
+[![License MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](myGithub)&nbsp;
 [![platform](https://img.shields.io/badge/platform-LeanCloud-lightgray.svg?style=flat)][myGithub]&nbsp;
+[![platform](https://img.shields.io/badge/build-passing-green.svg?style=flat)][myGithub]&nbsp;
 
 
 ## Introduction
@@ -18,7 +19,7 @@
 
 一个前后端完全分离的单页应用  [线上地址点此查看](http://royalmjz.leanapp.cn)
 
-采用了将就写的 vue.js+LeanCloud（node.js） 的开发样板 [github地址点此查看](https://github.com/jiangjiu/vue-leancloud-boilerplate)
+采用了"将就"写的 vue.js+LeanCloud（node.js） 的开发样板 [github地址点此查看](https://github.com/jiangjiu/vue-leancloud-boilerplate)
 
 
 ## Usage
