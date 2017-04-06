@@ -1,0 +1,13 @@
+node_modules
+start.sh
+.leancloud
+.avoscloud
+
+# VIM
+*~
+*.swp
+.avoscloud/
+.leancloud/
+.idea/
+fe/.idea/.leancloud/
+npm-debug.log.leancloud/
