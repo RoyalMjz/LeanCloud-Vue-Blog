@@ -69,7 +69,7 @@ $ lean deploy / lean deploy -g
 ### 后端
 - [node.js 服务端](https://github.com/nodejs/node)
 - [express 框架](https://github.com/expressjs/express)
-- [LeanCloud 数据存储](http://www.leancloud.com)
+- [LeanCloud 数据存储](https://leancloud.cn/)
 
 
 ## LICENSE
